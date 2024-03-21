@@ -5,16 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishazaka&label=Profile%20views&color=0e75b6&style=flat" alt="ishazaka" /> </p>
 
-- 🔭 I’m currently working in **Travelex**
-
-
-- 👨‍💻 All of my projects are available at [ishazaka.com](ishazaka.com)
 
 - 📝 I write articles in spare time [https://medium.com/@Isha_](https://medium.com/@Isha_)
 
 - 💬 Ask me about **React , Javascript ,Node**
-
-- 📫 How to reach me **ishazaka1010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
