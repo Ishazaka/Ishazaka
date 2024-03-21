@@ -8,7 +8,7 @@
 
 - 📝 I write articles in spare time [https://medium.com/@Isha_](https://medium.com/@Isha_)
 
-- 💬 Ask me about **React , Javascript ,Node**
+- 💬 Ask me about **Tech(FrontEnd , Backend)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
